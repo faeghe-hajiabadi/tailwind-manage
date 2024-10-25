@@ -1,7 +1,8 @@
 # Tailwind Manage Landing Page
 
 This is the project from Traversy Media 2022 Tailwind Crash Course on YouTube.
-[link text]((https://www.youtube.com/watch?v=dFgzHOX84xQ&ab_channel=TraversyMedia))
+[Tailwind Crash Course | Project From Scratch
+]([https://www.youtube.com/watch?v=dFgzHOX84xQ&ab_channel=TraversyMedia])
 
 ![Tailwind Crash Course | Project From Scratch](/img/screen.png?raw=true)
 
